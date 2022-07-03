@@ -5,6 +5,7 @@
         "type_traits": "cpp",
         "xiosbase": "cpp",
         "xstddef": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "algorithm": "cpp"
     }
 }
