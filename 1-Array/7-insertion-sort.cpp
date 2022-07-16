@@ -15,6 +15,7 @@ using namespace std;
         j=j-1;
 
     }
+    a[j+1]=e;
     
     }
 }  
@@ -28,7 +29,7 @@ int main()
   {
     cin >> a[i];
   }
-  
+  insertion_sort(a,n);
   cout<<" printing array "<<endl;
 for(int i=0;i<n;i++)
     {
