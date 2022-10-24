@@ -18,6 +18,18 @@ int main()
    //but if you explicit typecast from *char to *void it will give you address
    cout<<(void*)&ch<<endl;
 
+// store address to variable and pointers
+//pointers
+//reassign other variable
+int *xptr=0;
+xptr=&x;
+cout<<&x<<endl;
+cout<<xptr<<endl;
+int y1=12;
+xptr=&y1;
+cout<<xptr<<endl;
+
+
 
 return 0;
 }
