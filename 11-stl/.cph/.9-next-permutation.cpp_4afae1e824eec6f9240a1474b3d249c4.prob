@@ -1,0 +1,1 @@
+{"name":"Local: 9-next-permutation","url":"d:\\github-c---data-structure\\11-stl\\9-next-permutation.cpp","tests":[{"id":1667897782713,"input":"2\n3\n1 2 3 \n3\n3 2 1","output":"1 3 2\n1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\github-c---data-structure\\11-stl\\9-next-permutation.cpp","group":"local","local":true}
