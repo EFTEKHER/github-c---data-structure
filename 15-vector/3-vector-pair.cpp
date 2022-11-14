@@ -25,7 +25,7 @@ void display(vector<pair<int, int>> p)
 {
     for (auto x : p)
     {
-        cout <<"car"<< x.first << " " << x.second << " ";
+        cout <<"car:"<< x.first <<"   "<< x.second <<"   ";
         cout << endl;
     }
     
