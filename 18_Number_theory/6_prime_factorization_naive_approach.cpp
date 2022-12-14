@@ -80,6 +80,8 @@ int c;
 cin>>c;
 vector<int> primes=primeSieve(p,c);
 primefactors(primes,c);
+
+
         
 return 0;
 }
